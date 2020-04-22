@@ -1,8 +1,8 @@
 # Requirment No 01
 
-- User can log in or Join for an account either for a recruiter or as an applicant.
+- User can log in or sign up for an account either for a recruiter or as an applicant.
 - sign up form include first and last name, email, password
--  Join now button for sign up form
+- Join now button for sign up form
 - sign in form include email and password and log in button 
 
 # Requirment No 02
@@ -14,14 +14,14 @@ or as Organization/Recruiter
 
 - Detailed Qaulification 
 - Certifications if any
-- past experience with refrence
+- past experiences with refrence
 - Residential information
 - breif contact details
 - Some more personal information like hobbies, intrests etc (about me)
 
 # Organization/Recruiter Form
 
-# Organization
+## Organization
 
 - Name of Organization 
 - A brief detail section
@@ -35,7 +35,7 @@ or as Organization/Recruiter
 - Description
 - relevant skills tags
 
-# For Applicant
+## For Applicant
 
 - apply on Job post 
 - add Cover letter
