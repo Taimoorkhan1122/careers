@@ -1,6 +1,6 @@
 # Requirment No 01
 
-- User can log in or Join Now for an account either for a recruiter or as an applicant.
+- User can log in or Join for an account either for a recruiter or as an applicant.
 - sign up form include first and last name, email, password
 -  Join now button for sign up form
 - sign in form include email and password and log in button 
@@ -15,4 +15,29 @@ or as Organization/Recruiter
 - Detailed Qaulification 
 - Certifications if any
 - past experience with refrence
-- 
+- Residential information
+- breif contact details
+- Some more personal information like hobbies, intrests etc (about me)
+
+# Organization/Recruiter Form
+
+# Organization
+
+- Name of Organization 
+- A brief detail section
+- Address and other authentication details
+
+# For Organization
+## Post a Job
+
+- Job title
+- location
+- Description
+- relevant skills tags
+
+# For Applicant
+
+- apply on Job post 
+- add Cover letter
+- attach separate resume
+- attach useful links
