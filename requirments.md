@@ -27,7 +27,7 @@ or as Organization/Recruiter
 - A brief detail section
 - Address and other authentication details
 
-# For Organization
+# Job Posting
 ## Post a Job
 
 - Job title
@@ -41,3 +41,5 @@ or as Organization/Recruiter
 - add Cover letter
 - attach separate resume
 - attach useful links
+
+*Note:* This requirment doc will updated with time.... 
