@@ -1,7 +1,7 @@
 
 # Requirment No 01
 
-- Home page
+- Eye catching Home page 
 - User can log in or sign up for an account either for a recruiter or as an applicant.
 - sign up form include first and last name, email, password
 - Join now button for sign up form
